@@ -16,6 +16,7 @@ The repository also contains a larger exploratory Colab-exported script with exp
 
 | Component | Status | Description |
 
+|----|----|----|----|
 
 | Rule-based recommendations | Maintained | 
 Tested, deterministic when a random seed is supplied, and suitable for reuse as a Python module |
